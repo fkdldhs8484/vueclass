@@ -8,7 +8,10 @@ npm install -g @vue/cli
 
 vue create vueclass
 
-
 ## 파이어베이스 설치
 
 npm install -g firebase-tools
+
+## 파이어베이스 ## 1차 완성
+
+https://vueclass1-ac476.web.app/
